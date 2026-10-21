@@ -1,6 +1,6 @@
 # BFAST Monitor sobre Sentinel-1 banda C en el manglar de la Ciénaga Grande de Santa Marta
 
-[![Ver Dashboard HTML](https://img.shields.io/badge/Ver-Dashboard%20HTML-orange?logo=html5&logoColor=white)](https://linaq11.github.io/Informe_2/dashboard-percepcion-remota.html)
+[![Ver Dashboard HTML](https://img.shields.io/badge/Ver-Dashboard%20HTML-orange?logo=html5&logoColor=white)](https://linaq11.github.io/cgsm-bfast-sentinel1/dashboard-percepcion-remota.html)
 
 Informe 2 del curso de Percepción Remota, Maestría en Geomática, Universidad Nacional de Colombia.
 
