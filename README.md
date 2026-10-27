@@ -11,8 +11,8 @@ Aplicación de BFAST Monitor (Verbesselt et al. 2012) a series mensuales VH de S
 
 ## Estructura del repositorio
 
-- `Informe_2_CGSM.docx` / `.md` — documento principal
-- `Informe_2_CGSM_Anexos.docx` / `.md` — documento complementario (anexos A-L)
+- `BFAST_CGSM_informe.docx` / `.md` — documento principal
+- `BFAST_CGSM_anexos.docx` / `.md` — documento complementario (anexos A-L)
 - `dashboard-percepcion-remota.html` — tablero interactivo de resultados (abrir vía badge superior)
 - `scripts/` — pipelines Python (BFAST Monitor, AoA, GPBoost), scripts GEE de exportación, cuaderno R canónico de BFAST
 - `figuras/` — figuras del cuerpo y de los anexos
