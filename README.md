@@ -2,7 +2,7 @@
 
 [![Ver Dashboard HTML](https://img.shields.io/badge/Ver-Dashboard%20HTML-orange?logo=html5&logoColor=white)](https://linaq11.github.io/cgsm-bfast-sentinel1/dashboard-percepcion-remota.html)
 
-Informe 2 del curso de Percepción Remota, Maestría en Geomática, Universidad Nacional de Colombia.
+Estudio desarrollado en la Maestría en Geomática de la Universidad Nacional de Colombia (2026).
 
 Aplicación de BFAST Monitor (Verbesselt et al. 2012) a series mensuales VH de Sentinel-1 banda C sobre las cinco estaciones permanentes CARICOMP del INVEMAR (período histórico 2020-2021, monitoreo 2022-2023). El algoritmo detectó cambios estructurales significativos entre abril 2022 y octubre 2023 con magnitudes entre 0.35 y 1.73 dB. La alerta del modelo en Aguas Negras precedió en seis meses al inicio del período de pérdida del 33 % del arbolado reportado por INVEMAR (ITF 2023), demostrando que SAR banda C, que no resuelve la pregunta de estado estructural instantáneo (componente A), sí responde a la pregunta de detección de cambio temporal.
 
