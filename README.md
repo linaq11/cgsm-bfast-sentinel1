@@ -10,10 +10,10 @@ Aplicación de BFAST Monitor (Verbesselt et al. 2012) a series mensuales VH de S
 - **Autor:** Lina María Quintero Fonseca · lquinterof@unal.edu.co
 - **Fecha:** Mayo 2026
 
+El informe completo de este trabajo forma parte de la tesis de maestría en curso de la autora y se publicará con ella; este repositorio contiene el código, los resultados tabulados y las figuras que lo sustentan.
+
 ## Estructura del repositorio
 
-- `BFAST_CGSM_informe.docx` / `.md` — documento principal
-- `BFAST_CGSM_anexos.docx` / `.md` — documento complementario (anexos A-L)
 - `dashboard-percepcion-remota.html` — tablero interactivo de resultados (abrir vía badge superior)
 - `scripts/` — pipelines Python (BFAST Monitor, AoA, GPBoost), scripts GEE de exportación, cuaderno R canónico de BFAST
 - `figuras/` — figuras del cuerpo y de los anexos
