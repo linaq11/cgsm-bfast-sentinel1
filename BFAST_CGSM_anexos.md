@@ -1,6 +1,6 @@
 # Anexos - Informe 2 BFAST Monitor sobre Sentinel-1 banda C en el manglar de la CGSM
 
-**Documento complementario.** Este archivo contiene los anexos A-L del Informe 2 (Quintero Fonseca, 2026), que documentan el material reproducible, las sensibilidades secundarias y el análisis exploratorio que sostienen el cuerpo principal sin saturarlo. El cuerpo principal del Informe 2 se distribuye en `Informe_2_CGSM.docx` dentro del mismo repositorio.
+**Documento complementario.** Este archivo contiene los anexos A-L del Informe 2 (Quintero Fonseca, 2026), que documentan el material reproducible, las sensibilidades secundarias y el análisis exploratorio que sostienen el cuerpo principal sin saturarlo. El cuerpo principal del Informe 2 se distribuye en `BFAST_CGSM_informe.docx` dentro del mismo repositorio.
 
 ---
 

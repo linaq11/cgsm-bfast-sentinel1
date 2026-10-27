@@ -237,7 +237,7 @@ El trabajo futuro se proyecta en cuatro líneas. La primera consiste en escalar 
 
 **Repositorio público.** El código, los datos derivados y la presente memoria se distribuyen bajo licencia MIT en el repositorio https://github.com/linaq11/Informe_2, con acceso al dashboard interactivo de resultados a través del badge enlazado en el README. Los componentes principales del repositorio son los siguientes.
 
-**Anexos.** Los anexos A-L del Informe 2, que documentan el material reproducible, las sensibilidades secundarias y el análisis exploratorio que sostienen el cuerpo principal, se distribuyen como documento complementario en el archivo `Informe_2_CGSM_Anexos.docx` dentro del mismo repositorio. Las referencias a "Anexo X" en el cuerpo del informe apuntan a ese documento.
+**Anexos.** Los anexos A-L del Informe 2, que documentan el material reproducible, las sensibilidades secundarias y el análisis exploratorio que sostienen el cuerpo principal, se distribuyen como documento complementario en el archivo `BFAST_CGSM_anexos.docx` dentro del mismo repositorio. Las referencias a "Anexo X" en el cuerpo del informe apuntan a ese documento.
 
 | Componente | Ubicación | Función |
 |---|---|---|
